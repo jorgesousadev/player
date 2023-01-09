@@ -12,11 +12,13 @@
 
 ![](/Screenshot/print.png)
 
-# Tecnologias utilizadas
+# Tecnologias e Ferramentas usadas na construção do projeto:
 
 * HTML
 * CSS
 * Javascript
+
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 # Acesso ao Projeto
 
