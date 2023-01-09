@@ -43,7 +43,7 @@ Obs: Para adicionar mais músicas no projeto siga as instruções a seguir:
 
 * 1ª Coloque uma imagem do artista na pasta img e um arquivo de música na pasta audio.
 
-2ª Baixe e assista o video que foi adicionado nesse repositório: [como adicionar músicas](https://github.com/jorgesousadev/player/blob/main/tutorial.mp4)
+* 2ª Baixe e assista o video que foi adicionado nesse repositório: [como adicionar músicas](https://github.com/jorgesousadev/player/blob/main/tutorial.mp4)
 
 
 
