@@ -10,6 +10,8 @@
 
 * Quando termina de tocar uma música, não é mudado automaticamente para a próxima, o usuário terá que mudar de música manualmente.
 
+* Adicionei só duas músicas nesse player para demonstrar o funcionamento.
+
 * Link para acessar o projeto: https://jorgesousadev.github.io/player/index.html
 
 ![](/Screenshot/print.png)
