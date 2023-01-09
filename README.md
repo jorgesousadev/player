@@ -12,6 +12,8 @@
 
 * Adicionei só duas músicas nesse player para demonstrar o funcionamento.
 
+* Link do projeto funcionando: https://jorgesousadev.github.io/player/
+
 ![](/Screenshot/print.png)
 ![](/Screenshot/print2.png)
 
