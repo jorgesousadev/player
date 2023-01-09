@@ -8,7 +8,7 @@
 
 * Ainda mostra a duração da música.
 
-* Quando termina de tocar uma música, não é mudado automaticamente para a próxima, o usuário terá que mudar de música manualmente 
+* Quando termina de tocar uma música, não é mudado automaticamente para a próxima, o usuário terá que mudar de música manualmente.
 
 * Link para acessar o projeto: https://jorgesousadev.github.io/player/index.html
 
