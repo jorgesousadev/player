@@ -31,5 +31,10 @@ git clone https://github.com/jorgesousadev/Player_Musica.git
 
 2ª Acesse a pasta do projeto no terminal/cmd ou no Visual Studio Code
 
-cd 
+cd player-main
+
+3ª Abra o arquivo index.html que está
+
+Obs: Para adicionar mais músicas no projeto, 
+
 
