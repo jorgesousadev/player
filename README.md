@@ -10,7 +10,10 @@
 
 * Quando termina de tocar uma música, não é mudado automaticamente para a próxima, o usuário terá que mudar de música manualmente 
 
+* Link para acessar o projeto: https://jorgesousadev.github.io/player/index.html
+
 ![](/Screenshot/print.png)
+![](/Screenshot/print2.png)
 
 # Tecnologias e Ferramentas usadas na construção do projeto:
 
