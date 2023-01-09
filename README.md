@@ -37,7 +37,7 @@ cd player
 
 ![](/Screenshot/print3.png)
 
-Obs: Para adicionar mais músicas no projeto siga as instruções a seguir::
+Obs: Para adicionar mais músicas no projeto siga as instruções a seguir:
 
 * 1ª Coloque uma imagem do artista na pasta img e um arquivo de música na pasta audio.
 
